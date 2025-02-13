@@ -14,9 +14,3 @@ The **Supply Chain Power BI Dashboard** provides insights into your supply chain
 ## Requirements
 - **Power BI Desktop** or **Power BI Service**.
 - Connect to your own supply chain data (ERP, spreadsheets, or APIs).
-
-## Getting Started
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yourusername/supply-chain-power-bi-dashboard.git
